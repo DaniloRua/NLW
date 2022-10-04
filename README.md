@@ -10,7 +10,8 @@ project built on event Next Level Week by Rocketseat
 -git
 -github
 
-(click on project)https://danilorua.github.io/nlw-landing-page-games/
+## Have a look!
+https://danilorua.github.io/nlw-landing-page-games/
 
 
 ## contact
